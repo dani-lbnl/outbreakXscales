@@ -11,7 +11,9 @@ Surveillance from outbreak data across scales
 - NLP, tm processing and visualization
 - Imputation
 
-## Initial notes:
+## Initial notes: what might be important
+- Data formating, json, etc
+- Vector borne diseases and specific demands, e.g., vector identification
 - Inheriting ROpenSci software stack for data visualization as part of web-apps
 - How to deploy data understanding pipelines for epidemiology?
 - How to integrate different sources of data?

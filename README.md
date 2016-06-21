@@ -13,7 +13,7 @@ Surveillance from outbreak data across scales
 
 ## Pitching project Ideas:
 - reuse/repurposing of ROpenSci, e.g., spocc?
-- build capabilities not available in CDC epi-info [https://epiinfo.codeplex.com/] or openepi [http://www.openepi.com/Menu/OE_Menu.htm]
+- build capabilities not available in CDC [link](https://epiinfo.codeplex.com/ "epi-info") or [link] (http://www.openepi.com/Menu/OE_Menu.htm "openepi")
 
 ## My notes: what might be important
 - Web-based graphs (e.g. htmlwidgets, shiny, google charts). 
@@ -22,7 +22,6 @@ Surveillance from outbreak data across scales
 - Inheriting ROpenSci software stack for data visualization as part of web-apps
 - How to deploy data understanding pipelines for epidemiology?
 - How to integrate different sources of data?
-- This repo is part of the activities developed within ROpenSci hackathon
-http://hackout3.ropensci.org/
+- This repo is part of the activities developed within ROpenSci [link](http://hackout3.ropensci.org/ "hackathon")
 
 

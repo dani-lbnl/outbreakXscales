@@ -11,7 +11,12 @@ Surveillance from outbreak data across scales
 - NLP, tm processing and visualization
 - Imputation
 
-## Initial notes: what might be important
+## Pitching project Ideas:
+- reuse/repurposing of ROpenSci, e.g., spocc?
+- build capabilities not available in CDC epi-info [https://epiinfo.codeplex.com/] or openepi [http://www.openepi.com/Menu/OE_Menu.htm]
+
+## My notes: what might be important
+- Web-based graphs (e.g. htmlwidgets, shiny, google charts). 
 - Data formating, json, etc
 - Vector borne diseases and specific demands, e.g., vector identification
 - Inheriting ROpenSci software stack for data visualization as part of web-apps
